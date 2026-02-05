@@ -8,6 +8,11 @@ This project includes:
 
 ---
 
+## GUI Preview
+
+![Calculator GUI](screenshot.png)
+
+
 ## Features
 
 ### CLI Calculator
